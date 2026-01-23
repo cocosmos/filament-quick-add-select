@@ -28,7 +28,7 @@ class FilamentQuickAddServiceProvider extends ServiceProvider
             $this->live();
 
             // Store the label template
-            $labelTemplate = $label ?? fn (string $search): string => __('quick-add.add', ['term' => $search]);
+            $labelTemplate = $label ?? fn (string $search): string => __('quick-add::quick-add.add', ['term' => $search]);
 
             // Override getSearchResults to inject quick-add option
             $this->getSearchResultsUsing(function (Select $component, string $search) use ($labelTemplate) {
