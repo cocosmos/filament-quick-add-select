@@ -5,6 +5,13 @@ All notable changes to `filament-quick-add-select` will be documented in this fi
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.5](https://github.com/cocosmos/filament-quick-add-select/compare/v1.0.4...v1.0.5) (2026-01-25)
+
+
+### Miscellaneous Chores
+
+* **deploy:** add .gitignore and release-please configuration ([093c6bc](https://github.com/cocosmos/filament-quick-add-select/commit/093c6bc367af609ae15807a98031c9a9698b0bce))
+
 ## [Unreleased]
 
 ## [1.0.4] - 2026-01-23
