@@ -94,6 +94,7 @@ The plugin includes translations for the default "Add" label in multiple languag
 - 🇫🇷 French: "+ Ajouter « :term »"
 - 🇩🇪 German: "+ Hinzufügen ':term'"
 - 🇪🇸 Spanish: "+ Añadir ':term'"
+- 🇮🇩 Indonesia: "+ Tambah ':term'"
 - 🇮🇹 Italian: "+ Aggiungi ':term'"
 - 🇵🇹 Portuguese: "+ Adicionar ':term'"
 
