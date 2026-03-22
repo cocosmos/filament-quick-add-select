@@ -5,6 +5,13 @@ All notable changes to `filament-quick-add-select` will be documented in this fi
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.1](https://github.com/cocosmos/filament-quick-add-select/compare/v1.1.0...v1.1.1) (2026-03-22)
+
+
+### Miscellaneous Chores
+
+* **laravel:** add extension to laravel 13 ([82a93b8](https://github.com/cocosmos/filament-quick-add-select/commit/82a93b87cfbf87c138410ebabec74426919529f5))
+
 ## [1.1.0](https://github.com/cocosmos/filament-quick-add-select/compare/v1.0.5...v1.1.0) (2026-02-03)
 
 
