@@ -47,7 +47,7 @@ class FilamentQuickAddServiceProvider extends ServiceProvider
 
                 // Search existing records
                 $results = $relatedModel::query()
-                    ->where($titleAttribute, 'like', "%{$search}%")
+                    ->whereLike($titleAttribute, "%{$search}%")
                     ->limit(50)
                     ->pluck($titleAttribute, $keyName)
                     ->toArray();
