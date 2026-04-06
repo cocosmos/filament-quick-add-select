@@ -78,6 +78,16 @@ Or use a simple string template:
 ->quickAdd(label: "New category: {search}")
 ```
 
+### Reset Search After Creation
+
+By default, after creating a new record, only the "Add" option is removed from the dropdown while keeping the current search text and results intact. This lets users continue working in the same context.
+
+If you prefer to fully clear the search input and results after creation:
+
+```php
+->quickAdd(resetSearch: true)
+```
+
 ### Disable Quick Add
 
 You can conditionally disable the feature:
@@ -138,14 +148,15 @@ The plugin extends Filament's Select component using Laravel's macro system. Whe
 2. When the "Add" option is selected, it creates the record immediately
 3. The newly created record's ID replaces the temporary selection
 4. The component displays the proper label from the database
+5. The "Add" option is removed from the dropdown to prevent duplicate creation
 
 All of this happens client-side with Livewire, so there's no page refresh.
 
 ## Requirements
 
-- PHP 8.1+
+- PHP 8.2+
 - Laravel 11.0+
-- Filament 4.0+
+- Filament 4.0+ / 5.0+
 
 ## Compatibility
 
