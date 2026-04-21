@@ -107,6 +107,7 @@ The plugin includes translations for the default "Add" label in multiple languag
 - 🇮🇩 Indonesia: "+ Tambah ':term'"
 - 🇮🇹 Italian: "+ Aggiungi ':term'"
 - 🇵🇹 Portuguese: "+ Adicionar ':term'"
+- 🇸🇦 Arabic: "+ أضف ':term'"
 
 ### Publishing Translations
 
