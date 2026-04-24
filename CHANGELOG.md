@@ -5,6 +5,13 @@ All notable changes to `filament-quick-add-select` will be documented in this fi
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.3.0](https://github.com/cocosmos/filament-quick-add-select/compare/v1.2.0...v1.3.0) (2026-04-24)
+
+
+### Features
+
+* Add Arabic translation for quick add feature ([8cf8085](https://github.com/cocosmos/filament-quick-add-select/commit/8cf8085b95da054b64eb781f5d9187d6c0511d68))
+
 ## [1.2.0](https://github.com/cocosmos/filament-quick-add-select/compare/v1.1.2...v1.2.0) (2026-04-06)
 
 
