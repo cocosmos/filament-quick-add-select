@@ -5,6 +5,15 @@ All notable changes to `filament-quick-add-select` will be documented in this fi
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.3.1](https://github.com/cocosmos/filament-quick-add-select/compare/v1.3.0...v1.3.1) (2026-08-08)
+
+
+### Miscellaneous Chores
+
+* **dependencies:** add dependabot configuration for GitHub Actions and Composer updates ([08bf299](https://github.com/cocosmos/filament-quick-add-select/commit/08bf29923a5dbebc0b90812a5354f22bb3dac630))
+* **deps:** bump googleapis/release-please-action from 4.4.1 to 5.0.0 ([b9a0806](https://github.com/cocosmos/filament-quick-add-select/commit/b9a0806bb0cbcd2ea67f44561541af0d24f00f9d))
+* **deps:** bump googleapis/release-please-action from 4.4.1 to 5.0.0 ([565d73e](https://github.com/cocosmos/filament-quick-add-select/commit/565d73e547688becd088dcbbf76c6ca52f99dd63))
+
 ## [1.3.0](https://github.com/cocosmos/filament-quick-add-select/compare/v1.2.0...v1.3.0) (2026-04-24)
 
 
